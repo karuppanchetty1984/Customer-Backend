@@ -21,5 +21,5 @@ mvn run
 8. GET /customers/products/all
 9. PUT /customers/update
 
-Postman export file [Customers-API.postman_collection]
+Postman export file [https://github.com/karuppanchetty1984/Customer-Backend/blob/main/Customers-API.postman_collection.json]
 
