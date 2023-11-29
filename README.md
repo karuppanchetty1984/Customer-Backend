@@ -8,6 +8,12 @@ Run the application from Eclipse/Intellij
 
 mvn clean install
 mvn run
+# Documentation 
+Swagger-UI 
+/customers/swagger-ui/index.html
+
+![API_Documentation](https://github.com/karuppanchetty1984/Customer-Backend/assets/152306219/c3f4c668-7db4-4961-9eab-40bbae8bbf84)
+
 
 # Rest APIs
 
