@@ -1,0 +1,19 @@
+server:
+  servlet:
+    context-path: /customers
+  port: 9011
+endpoints:
+  cors:
+    allowed-origins: "*"
+spring:
+  application:
+    name: CUSTOMERS-API
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+  datasource:
+    url: jdbc:mysql://10.128.17.14:3306/school?serverTimezone=UTC
+    username: connectuser
+    password: C0nnectp@$$
+    driverClassName: com.mysql.cj.jdbc.Driver
